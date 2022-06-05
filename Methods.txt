@@ -1,0 +1,5 @@
+We intend on utilizing two sets of data in conjunction. StockValues will help us keep track of a stock's history
+and look for any trends (A seasonal stock like a chistmas decoration company may rise and fall yearly), and
+StockSentiment will allow us to glean positive and negative opinions on stocks by filtering keywords from 
+tweets and websites. By combining the two we will create an algorithm that should be able to predict if a stock
+is about to increase or decrease in value.

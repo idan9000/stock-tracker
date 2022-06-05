@@ -1,0 +1,3 @@
+The results we aim to produce is for the AI to have a greater than 60% success rate in predicting a rise or fall
+in stock price. We plan to test it using our StockValues dataset as well as other incomplete stock price sheets
+from the internet. If this all works as planned we may use the AI to trade stocks on the market with real money.

@@ -1,0 +1,2 @@
+Our team aims to addrerss the uncertainty of trading stocks by utilizing machine learning. We intend to 
+predict a stock's rise and fall in order to increase our odds of making profit in the stock market.
